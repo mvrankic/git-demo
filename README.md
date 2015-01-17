@@ -2,9 +2,6 @@
 
 This is the first file in the repo.
 
-## Ipsum Below
+## Website contest
 
-Prob salfjsaf lsdlfkj asdlfjsldfj sdlfjsaldkfjlsf
-sadflsdflk
-
-fasaslck saldkfj asclfkjaslcfjsalkfjaslkfj
+1. index.html
